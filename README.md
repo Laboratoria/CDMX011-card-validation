@@ -27,7 +27,7 @@ La primera criptomoneda que empezó a operar fue Bitcoin en 2009,5​ y desde en
 Este proyecto se desarrollo en base a la necesidad de los usuarios de las criptomonedas, ya que las diferentes divisas manejadas a lo largo y ancho del mundo son muy diversas y las transacciones llevan largo tiempo en concretarse, así que pensando en este problema decidimos lanzar una forma más ágil para poder realizr estas transacciones desde cualquier parte del mundo y que así mismo el usuario pueda hacer cualquier tipo de operación ya sea en línea o en alguna tienda física desde cualquier parte del mundo sin ningún contratiempo, es así como nace "CRYPTO CARD".
 
 ### Imagen del proyecto
-![Imagen](/Imágenes/Mirell/Card Validation.pdf)
+![Imagen](Card Validation.jpg)
 
 ## 3. Público Objetivo
 
@@ -41,11 +41,11 @@ Este producto ayudará a los usuarios de la plataforma a comprobar que la tarjet
 Ayudará a tener cualquier tipo de transacción desde cualquier parte del mundo.
 
 ### Prototipo 
-![Imagen final](/Imágenes/Mirell/Prototipo.jpg)
+![Imagen final](Prototipo.jpg)
 
 ### 6.Resumen feedback 
 
 ### Prototipo Final 
-![Imagen final](/Imágenes/Mirell/Cryptocardfinal.jpg)
+![Imagen final](Cryptocardfinal.jpg)
 
 
