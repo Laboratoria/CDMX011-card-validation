@@ -1,8 +1,10 @@
 import validator from './validator.js';
 
 
-document.getElementById("pay").addEventListener("click", recuperar);
-document.getElementById("pay").addEventListener("click", mostrarSeccion);
+document.getElementById("pay").addEventListener("click",function(){
+  recuperar();
+  mostrarSeccion();
+} );
 
 //Captura los dígitos de la tarjeta
 

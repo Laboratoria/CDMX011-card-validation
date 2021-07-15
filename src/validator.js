@@ -72,11 +72,11 @@ const validator = {
     }
     return respuesta;
 
-  }
+  },
   //Regresa mensaje en la pantalla
 
   // funcion para enmascarar
-  , maskify(digitosCard) {
+  maskify(digitosCard) {
 
     let enmascarar;
     if (digitosCard.length > 4) {
@@ -88,7 +88,7 @@ const validator = {
 
     return enmascarar;
   }
-};
+}
 
 export default validator;
 
