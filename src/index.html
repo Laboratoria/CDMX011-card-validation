@@ -1,14 +1,77 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Crypto card</title>
+	<link rel="shortcut icon" href="img/bnb.jpg">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
+</head>
+<!-- Encabezado -->
+<body>
+ 	<header>
+		<div class="contenedor">
+			<div class="logo">
+				<img src="img/bnbicon.png" alt="Logo">
+			</div>
+	<!--Menu principal-->
+      		<nav class="menu">
+
+				<a href="index.html">Inicio</a>
+				<a href="https://www.binance.com/es/markets">Mercados</a>
+				<a href="https://es.investing.com/news/cryptocurrency-news">Noticias</a>
+				<a href="#">Contacto</a>
+
+
+			</nav>
+		</div>
+	</header>
+	<!-- Banner principal -->
+  <section class="banner">
+		<div>
+			<div class="contenedor llamada-accion">
+				<p>La tarjeta de crédito que cambiará la forma de comprar</p>
+				<h2>CRYPTO CARD</h2>
+        		<img src="img/cryptocard.jpg" alt="Tarjeta" class="tarjeta">
+				<div class= "caja">
+					<label for="tarjeta" class="textinput">Ingresa los dígitos de tu tarjeta</label><br>
+					<input type="number" class="tarjetaingresada" id="tarjeta" name="tarjeta" placeholder=" Ej: 4 5 6 7 8 4 3 2 1 9 8 7 6 5 4 3" required autofocus><br>
+					<button class="validar" id="boton">Validar</button>
+				</div>
+				<h6 id= "resul" class="resul"></h6>
+				
+
+		
+			</div>	
+		</div>
+	</section>
+
+	<!-- Sección de bienvenida -->
+	<section class="bienvenida">
+		<div class="contenedor">
+			<h3>Crypto card para todos</h3>
+			<p>Tenemos la misión de facilitar las transacciones con cualquier tipo de moneda</p>
+		</div>
+	</section>
+
+	<!-- Pie de página -->
+	<footer>
+			<div class="top-footer"></div>
+			<div class="center-footer">
+				<div class="contenedor">
+					<div class="widget">
+						<p>Siguénos en nuestras redes sociales</p>
+						<a href="#">Facebook</a>
+						<a href="#">Twitter</a>
+						<a href="#">Instagram</a>
+						<a href="#">Linkedin</a>
+					</div>
+				</div>
+			</div>
+	</footer>
+  <script src="index.js" charset="utf-8" type="module"></script>
+</body>
 </html>
