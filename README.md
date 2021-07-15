@@ -6,7 +6,7 @@ Card Validation: Suscripción a plataforma de streaming.
 
 Acerca del proyecto.
 Esta web app está diseñada para los usuarios que deseen suscribirse a una plataforma de streaming, para lo cual deberán realizar el pago del servicio por medio de una tarjeta que debe ser validad para poder procesar la suscripción.
-![pantalla1](pantalla1.png)
+![pantalla1](pantalla1.jpg)
 ![pantalla2](pantalla2.png)
 
 Investigación UX:
@@ -20,7 +20,9 @@ Por medio de una aplicación web el usuario puede procesar su pago, ingresando l
 ![sketch](sketh.png)
 
 Resumen del feedback recibido.
+
 ![sketch](proto.png)
+
 Se agregó un mensaje para que el usuario sepa que en esa pantalla puede realizar la suscripción a la plataforma de streaming.
 
 Plan de acción
