@@ -6,15 +6,17 @@ let boton = document.getElementById("boton");
 boton.addEventListener("click", function(){
 let tarjeta = document.getElementById("tarjeta").value; //Se declara una variable obteniendo el valor del elemento por id llamado tarjeta
 
-let valida = validator.isValid(tarjeta);
+let validacion = validator.isValid(tarjeta);
 
-valida = validator.maskify(tarjeta);
-if (valida){
-  document.getElementById("resul").innerHTML = "Tu tarjeta es valida!" + "<br/>"+ valida;
+
+let tarjetaOculta = validator.maskify(tarjeta);
+
+if (validacion){
+  document.getElementById("resul").innerHTML = "Tu tarjeta es valida!" + "<br/>"+ tarjetaOculta;
   
   
 }else{ 
-  document.getElementById("resul").innerHTML = "Tu tarjeta es invalida!" + "<br/>"+ valida; 
+  document.getElementById("resul").innerHTML = "Tu tarjeta es invalida!" + "<br/>"+ tarjetaOculta; 
   
 }
 

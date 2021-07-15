@@ -24,7 +24,7 @@ const validator = {
     {
       return total + num;
     }
-    
+    alert(suma);
     if ((suma % 10) == 0){
       return true;
     } 
