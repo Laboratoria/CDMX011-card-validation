@@ -48,4 +48,6 @@ Ayudará a tener cualquier tipo de transacción desde cualquier parte del mundo.
 ### Prototipo Final 
 ![Imagen final](Cryptocardfinal.jpg)
 
+#
+
 
