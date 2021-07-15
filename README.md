@@ -27,7 +27,7 @@ La primera criptomoneda que empezó a operar fue Bitcoin en 2009,5​ y desde en
 Este proyecto se desarrollo en base a la necesidad de los usuarios de las criptomonedas, ya que las diferentes divisas manejadas a lo largo y ancho del mundo son muy diversas y las transacciones llevan largo tiempo en concretarse, así que pensando en este problema decidimos lanzar una forma más ágil para poder realizr estas transacciones desde cualquier parte del mundo y que así mismo el usuario pueda hacer cualquier tipo de operación ya sea en línea o en alguna tienda física desde cualquier parte del mundo sin ningún contratiempo, es así como nace "CRYPTO CARD".
 
 ### Imagen del proyecto
-
+![Imagen final](https://github.com/mirellgms/CDMX011-card-validation/blob/master/src/Final.JPG)
 
 ## 3. Público Objetivo
 
@@ -44,11 +44,11 @@ Ayudará a tener cualquier tipo de transacción desde cualquier parte del mundo.
 ![Prototipo en papel](https://github.com/mirellgms/CDMX011-card-validation/blob/master/src/Prototipo%20papel.jpg)
 
 ### 6.Resumen feedback 
+Se retomaron algunos puntos en los cuales se enfatizaron los aprendizajes en el proyecto, tales como la estructura en el documento y realizar pruebas para encontrar errores. 
 
-### Prototipo Final 
-![Imagen final](Cryptocardfinal.jpg)
+### Prototipo  
+![Prototipo](https://github.com/mirellgms/CDMX011-card-validation/blob/master/src/Final.JPG)
 
-#
 
 
 
