@@ -47,7 +47,7 @@ Ayudará a tener cualquier tipo de transacción desde cualquier parte del mundo.
 Se retomaron algunos puntos en los cuales se enfatizaron los aprendizajes en el proyecto, tales como la estructura en el documento y realizar pruebas para encontrar errores. 
 
 ### Prototipo  
-![Prototipo](https://github.com/mirellgms/CDMX011-card-validation/blob/master/src/Final.JPG)
+![Prototipo](https://github.com/mirellgms/CDMX011-card-validation/blob/master/PrototipoFigma.JPG)
 
 
 
