@@ -1,14 +1,44 @@
+/*Inicio de selectores de tipo*/
+/*Se asigna los estilos a todos los elementos en el documento */
 *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
-
+/*Se asignan los estilos en todo lo que este dentro de body */
 body { 
   font-family: 'Open Sans', sans-serif;
   background-color: #00639a;
 }
+/*Fin de selectores de tipo*/
+@media all and (min-width:280px)and (max-width:768px){
+  
+  .textinput{
+    width: 80%;
+  }
+  .validar{
+    width: 80%;
+  }
+  .tarjetaingresada{
+    width: 80%;
+  }
+}
+@media all and (max-width:420px) {
+  
+  .textinput{
+    width: 100%;
+  }
+  .validar{
+    width: 100%;
+  }
+  .tarjetaingresada{
+    width: 100%;
+  }
+}
 
+
+/*Inicio de selector de clase*/
+/*Se crean clases en html y se les coloca estilo a cada una de ellas*/
 .boton{
 text-decoration: none;
 color:#133960;
@@ -53,11 +83,11 @@ width: 20%;
 }
 
 
- .contenedor{
+.contenedor{
    width: 100%;
    max-width: 1170px;
    margin: auto;
- }
+}
 
 
 .header{
@@ -187,3 +217,4 @@ width: 20%;
 .widget a:hover{
   color:blue;
 }
+/*Fin de selectores de clase*/
